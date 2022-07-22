@@ -1,0 +1,21 @@
+{
+	"name": "img-comparison-slider-svelte-kit",
+	"version": "0.0.1",
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"package": "svelte-kit package",
+		"preview": "vite preview",
+		"prepare": "svelte-kit sync"
+	},
+	"dependencies": {
+		"img-comparison-slider": "^7.6.0"
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-auto": "next",
+		"@sveltejs/kit": "next",
+		"svelte": "^3.44.0",
+		"vite": "^3.0.0"
+	},
+	"type": "module"
+}
